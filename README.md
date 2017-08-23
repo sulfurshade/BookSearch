@@ -3,8 +3,8 @@ My project takes a search term provided by a user, and pushes it to the Google B
 
 https://book-search-recommendations.glitch.me/
 
-![Book Search image 1](./images/BookSearch1.jpg
+![Book Search image 1](./images/BookSearch1.jpg)
 
-![Book Search image 2](./images/BookSearch2.jpg
+![Book Search image 2](./images/BookSearch2.jpg)
 
-![Book Search image 3](./images/BookSearch3.jpg
+![Book Search image 3](./images/BookSearch3.jpg)
